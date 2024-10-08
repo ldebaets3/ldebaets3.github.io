@@ -6,6 +6,7 @@
  </head>
  <body>
      Hello, World!  Learning about computer science is cool and fun!  There are a lot of great ways to learn about computer science, such as taking a class or reaserching online articles.
- </body>
+     <a href="https://en.wikipedia.org/wiki/Computer_science">Here's an online article!</a>
  <img src="image.png" alt="Guy with Computer" width="725" height="500">
+  </body>
 </html>
