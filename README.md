@@ -7,4 +7,5 @@
  <body>
      Hello, World!
  </body>
+ <img src="image.png" alt="Guy with Computer" width="725" height="500">
 </html>
